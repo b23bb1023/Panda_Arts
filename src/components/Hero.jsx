@@ -6,7 +6,7 @@ import { useCursor } from "../context/CursorContext";
 // 1. Drop your image into the `public/` folder (same level as src/)
 // 2. Change the value below to your filename, e.g. "/my-bg-photo.jpg"
 // 3. Set BG_OPACITY between 0 (invisible) and 1 (fully visible). 0.65 = 65%
-const HERO_BG_SRC = "/public/Panda_hero.png"; // e.g. "/hero-bg.jpg"  ← put your filename here
+const HERO_BG_SRC = "/Panda_hero.png"; // e.g. "/hero-bg.jpg"  ← put your filename here
 const BG_OPACITY  = 0.85;
 // ─────────────────────────────────────────────────────────────────────────────
 
