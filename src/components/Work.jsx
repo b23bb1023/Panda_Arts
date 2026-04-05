@@ -33,8 +33,8 @@ const PROJECTS = [
     cat: "Campaign",
     soon: false,
     shape: "landscape",
-    poster: "/Public/Panda2.webp",
-    video: "/Public/Panda_v1.webm",
+    poster: "/public/Panda2.webp",
+    video: "/public/Panda_v1.webm",
     summary: "A campaign exploring the science of deep rest — blending comfort-forward brand storytelling with experiential activations across digital and physical spaces.",
   },
   {
@@ -42,8 +42,8 @@ const PROJECTS = [
     cat: "Brand Identity, App",
     soon: true,
     shape: "landscape",
-    poster: "/Public/Panda3.webp",
-    video: "/Public/Panda_v1.webm",
+    poster: "/public/Panda3.webp",
+    video: "/public/Panda_v1.webm",
     summary: "A complete brand identity and mobile app for the art of the nap — from visual language and motion system to a full-stack sleep-tracking experience.",
   },
   {
@@ -51,8 +51,8 @@ const PROJECTS = [
     cat: "VR Experience",
     soon: false,
     shape: "portrait",
-    poster: "/Public/Panda4.jpg",
-    video: "/Public/Panda_v1.webm",
+    poster: "/public/Panda4.jpg",
+    video: "/public/Panda_v1.webm",
     summary: null,
   },
 ];
