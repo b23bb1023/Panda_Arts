@@ -24,8 +24,8 @@ const PROJECTS = [
     cat: "Natural Experience",
     soon: false,
     shape: "portrait",
-    poster: "/Public/Panda1.jpg",
-    video: "/Public/Panda_v1.webm",
+    poster: "/public/Panda1.jpg",
+    video: "/public/Panda_v1.webm",
     summary: "Takes the natural route of sleeping science to induce oneness with the environment.",
   },
   {
