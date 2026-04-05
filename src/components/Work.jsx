@@ -24,8 +24,8 @@ const PROJECTS = [
     cat: "Natural Experience",
     soon: false,
     shape: "portrait",
-    poster: "Panda1.jpg",
-    video: "Panda_v1.webm",
+    poster: "/Public/Panda1.jpg",
+    video: "/Public/Panda_v1.webm",
     summary: "Takes the natural route of sleeping science to induce oneness with the environment.",
   },
   {
@@ -33,8 +33,8 @@ const PROJECTS = [
     cat: "Campaign",
     soon: false,
     shape: "landscape",
-    poster: "Panda2.webp",
-    video: "Panda_v1.webm",
+    poster: "/Public/Panda2.webp",
+    video: "/Public/Panda_v1.webm",
     summary: "A campaign exploring the science of deep rest — blending comfort-forward brand storytelling with experiential activations across digital and physical spaces.",
   },
   {
@@ -42,8 +42,8 @@ const PROJECTS = [
     cat: "Brand Identity, App",
     soon: true,
     shape: "landscape",
-    poster: "Panda3.webp",
-    video: "Panda_v1.webm",
+    poster: "/Public/Panda3.webp",
+    video: "/Public/Panda_v1.webm",
     summary: "A complete brand identity and mobile app for the art of the nap — from visual language and motion system to a full-stack sleep-tracking experience.",
   },
   {
@@ -51,8 +51,8 @@ const PROJECTS = [
     cat: "VR Experience",
     soon: false,
     shape: "portrait",
-    poster: "Panda4.jpg",
-    video: "Panda_v1.webm",
+    poster: "/Public/Panda4.jpg",
+    video: "/Public/Panda_v1.webm",
     summary: null,
   },
 ];
